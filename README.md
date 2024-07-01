@@ -1,5 +1,9 @@
 # deeplearning-sequences
 Experiments on RNN, LSTM etc
+Please have a look at the following word2vector playgrounds:
+> 1. Word Embedding Visual Inspector. See [here](https://ronxin.github.io/wevi/)<br>
+> 2. word2vector demo See [here](https://remykarem.github.io/word2vec-demo/)
+
 
 File: **[rossmann_timeSeries_noExtData.ipynb](https://github.com/harnalashok/deeplearning-sequences/blob/main/rossmann_timeSeries_noExtData.ipynb)**<br>
 *Objectives:*<br>
